@@ -1,8 +1,6 @@
 # Blockconverter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/blockconverter`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+A simple Nintendo Block to MB/GB converter.
 
 ## Installation
 
@@ -22,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run:
+    $ Blockconverter.get(x, type)
+Whereas `x` = the number you want to convert, and `type` = the type of the number you want to convert.
+NOTE: `type` is NOT case sensitive
 
 ## Development
 
@@ -40,4 +41,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Blockconverter project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/blockconverter/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Blockconverter project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/Sampasion/BlockConverter-Ruby/blob/master/CODE_OF_CONDUCT.md).
