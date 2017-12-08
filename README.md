@@ -4,15 +4,9 @@ A simple Nintendo Block to MB/GB converter.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Download the repo on your PC, `cd` to the folder and run:
 
-```ruby
-gem 'blockconverter'
-```
-
-And then execute:
-
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 
