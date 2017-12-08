@@ -17,7 +17,7 @@ module Blockconverter
     return [resBL, resMB]
   end
   def self.get(num, todo)
-    case todo
+    case todo.downcase
       when "bl"
         puts fromBl(num)
       when "mb"
