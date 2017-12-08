@@ -21,6 +21,7 @@ Or install it yourself as:
 ## Usage
 
 Run:
+
     $ Blockconverter.get(x, type)
 Whereas `x` = the number you want to convert, and `type` = the type of the number you want to convert.
 NOTE: `type` is NOT case sensitive
