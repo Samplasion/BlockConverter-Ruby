@@ -17,6 +17,7 @@ Or install it yourself as:
 Run:
 
     $ Blockconverter.get(x, type)
+
 Where `x` = the number you want to convert, and `type` = the type of the number you want to convert.
 NOTE: `type` is NOT case sensitive, meaning you can use 'bL', 'bl' or 'BL' (for example).
 
